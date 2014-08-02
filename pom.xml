@@ -6,7 +6,7 @@
 
     <groupId>org.vento.commons</groupId>
     <artifactId>vento-models</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
 
     <name>Vento Web Camel Route</name>
 
